@@ -1,1 +1,0 @@
-Wprowadzam dowolną zmianę do pliku README.md 
